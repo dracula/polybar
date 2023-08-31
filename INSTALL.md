@@ -1,19 +1,18 @@
-### [Foobar](https://foobar.com)
+### [Polybar](https://github.com/polybar/polybar)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+git clone https://github.com/matheusortiz/dracula-polybar
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/matheusortiz/dracula-polybar/archive/refs/heads/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Replace the colour palettes in config.ini to your existing Polybar configuration files.
+2. Boom! It's working ✨
