@@ -13,8 +13,7 @@ All instructions can be found at [draculatheme.com/polybar](https://draculatheme
 This theme is maintained by the following person.
 
 [![Matheus Ortiz](https://github.com/matheusortiz.png?size=100)](https://github.com/matheusortiz)
-
-[Matheus Ortiz](https://github.com/matheusortiz)                                               |
+[Matheus Ortiz](https://github.com/matheusortiz)
 
 ## Community
 
